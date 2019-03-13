@@ -1,0 +1,22 @@
+{
+  "name": "simplenodejsapp",
+  "version": "0.0.1",
+  "description": "simple nodejs app for openshift deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeddreca/simplenodejsapp.git"
+  },
+  "author": "PauPugi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xeddreca/simplenodejsapp/issues"
+  },
+  "homepage": "https://github.com/xeddreca/simplenodejsapp#readme",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
